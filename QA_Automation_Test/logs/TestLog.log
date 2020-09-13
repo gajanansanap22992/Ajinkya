@@ -1,0 +1,14 @@
+INFO main logg - User launch browser and open Url
+INFO main logg - User Verify Page  Title My Store
+INFO main logg --- User launch browser and open Url
+INFO main logg --- User Verify Page  Title My Store
+INFO main logg --- User launch browser and open Url
+INFO main logg --- User Verify Page  Title My Store
+INFO TestNG-PoolService-0 logg --- User launch browser and open Url
+INFO TestNG-PoolService-0 logg --- User Verify Page  Title My Store
+INFO TestNG-PoolService-0 logg --- User launch browser and open Url
+INFO TestNG-PoolService-0 logg --- User Verify Page  Title My Store
+INFO TestNG-PoolService-3 logg --- User launch browser and open Url
+INFO TestNG-PoolService-3 logg --- User Verify Page  Title My Store
+INFO TestNG-PoolService-3 logg --- User launch browser and open Url
+INFO TestNG-PoolService-3 logg --- User Verify Page  Title My Store
